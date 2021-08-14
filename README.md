@@ -1,3 +1,5 @@
+title: bienvenido a la pagina de inicio de Chavez
+description: esta pagina es utilizada para aprender de programacion
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Chavez2713/Ch-vez2713.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
